@@ -1,7 +1,7 @@
-# 👋 Hi there, Sachi
+# 👋 Hi there, Sachithanantham N E
 
 🎓 **MCA - Master of Computer Applications (2023 - 2025)**  
-📈 **Current CGPA:** 8.41  
+📈 **Current CGPA:** 7.6  
 💻 **Aspiring Software Developer | Open to Opportunities**
 
 ---
@@ -34,43 +34,10 @@
 
 ---
 
-## 🚀 Projects I’ve Worked On
-
-### 🌱 AgriWorld – *Python (Django) + MySQL/PostgreSQL*
-> A full-stack farmer support platform with:
-- User authentication & role-based navigation
-- E-commerce features for crop sales
-- Admin/user control, CRUD operations, and request approvals
-- Integrated Google Login using `social-auth`
-
-### 📚 Library Management System – *Django + MySQL/PostgreSQL*
-> Digital library platform with:
-- CRUD operations for books (borrow, return, inventory)
-- Role-based access: Admin vs User
-- Admin dashboard for request approvals/declines
-
-### 🧬 Organ Transplant Viability Predictor – *(Ongoing)*  
-> Tech Stack: React + Django + Machine Learning
-- Donor/Recipient register-login with admin approval system
-- Machine learning model to predict compatibility
-- Full-stack architecture with React frontend & Django REST API backend
-
----
-
-## 📊 GitHub Stats
-
-<!-- You can enable GitHub Readme Stats with the following markdown -->
-
-![Sivaprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivaprakash622003&show_icons=true&theme=tokyonight)
-![Sivaprakash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sivaprakash622003&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaprakash622003&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
-- 📫 **Email:** [sivaprakash622003@gmail.com](mailto:sivaprakash622003@gmail.com)
-- 🔗 **LinkedIn:** [Sivaprakash D](https://www.linkedin.com/in/sivaprakash622003)  
+- 📫 **Email:** [sharpsachin222@gmail.com](mailto:sharpsachin222@gmail.com)
+- 🔗 **LinkedIn:** [sachithanantham N.E](https://www.linkedin.com/in/sachithanantham-n-e-d05y2002/)  
 <!-- Add the correct LinkedIn link here -->
 
 ---
