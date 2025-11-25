@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💼 Currently interning at **VCodez** (3 months of experience)
+- 💼 intern experience at **VCodez** (3 months of experience)
 - 📚 Learning **Data Structures & Algorithms** and **Cloud Basics**
 - 💡 Passionate about building impactful software to solve real-world problems
 - 🤝 Actively seeking a **Software Developer** role to apply and grow my skills
@@ -21,7 +21,7 @@
 ### 👨‍💻 Programming
 - **Languages:** Python, JavaScript  
 - **Frameworks:** Django, React.js  
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL
 
 ### 💻 Front-End
 - HTML, CSS, Bootstrap  
